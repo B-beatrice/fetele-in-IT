@@ -1,0 +1,45 @@
+.menu{
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(161, 92, 19);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    display: inline-block;
+
+}
+
+.title{
+    margin-top: 60px;
+    margin-left: 300px;
+    width: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    white-space: nowrap;
+}
+
+.undertitle{
+    margin-left: 900px;
+    margin-top: 1px;
+    margin-bottom: 50px;
+    width: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    white-space: nowrap;
+}
+
+.image{
+    display: block;
+    width:60%;
+    margin-left: 280px;
+    margin-bottom: 100px;
+}
+
+.description{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+}
